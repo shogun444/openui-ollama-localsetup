@@ -20,7 +20,7 @@ Install:
 Example:
 
 ```bash
-ollama run qwen2.5-coder:14b
+ollama run gpt-oss:20b
 ```
 
 Verify installed models:
